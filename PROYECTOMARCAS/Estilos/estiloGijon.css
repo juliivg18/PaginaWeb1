@@ -1,0 +1,103 @@
+/*
+    font-family: 'Arvo', serif;
+*/
+.body {
+    position: absolute;
+    left: 0px;
+    padding: 5px;
+    width: 100%;
+    height: 337px;
+    overflow-x: hidden;
+    background: repeat-x left top;
+    font-family: 'Arvo';
+}
+td a{
+    text-decoration: none;
+    color: white;
+}
+.table {
+    background-color: lightcoral;
+    color: white;
+    margin-top: -25px;
+    margin-left: -15px;
+    align-content: center;
+    border-collapse: separate;
+    border-spacing: 170px 5px;
+    border: 3px solid black;
+}
+
+.rect {
+    width: 330px;
+    height: 185px;
+    border: 4px solid;
+}
+.cuad {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    float: left;
+}
+.firma {
+    text-align: right;
+    color: grey;
+}
+.index{
+    text-align: center;
+    font-family: 'ZCOOL QingKe HuangYou';
+}
+.horiz {
+    border: 2px solid black;
+    margin-left: -35px;
+    margin-right: -4px;
+    margin-top: 20px
+}
+
+
+h1 {
+    font-family: Tahoma;
+    text-align: center;
+    font-size: 60px;
+}
+
+.gijon {
+    font-family: 'Stencil';
+    color: rgb(82, 0, 0);
+    float: top;
+    font-family: 'Open Sans Condensed';
+}
+
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+    text-indent: 30px 
+}
+h2 {
+    font-weight: bolder;
+    font-size: 28px
+}
+a:hover{
+    background-color: lightcoral;
+    color: white;
+    font-weight: bold;
+}
+.tabla{
+    border-color: black;
+    margin:0 auto;
+}
+table, tr:nth-child(even) td {
+    background-color: #ffaaaa;
+  }
+  
+table, tr:nth-child(odd) td {
+    background-color: #ff8b8b;
+  }
+  td{
+      margin: 1cm;
+  }
+.escudo {
+    position:absolute;
+    width: 116px;
+    height: 185px;
+    top:0px;
+    left:0px;
+  }
